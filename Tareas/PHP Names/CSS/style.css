@@ -1,0 +1,72 @@
+.Title{
+    font-size: 150px;
+    background-color:#700A0A;
+    color:#fff;
+    padding:10px;
+    font-family: Angsana New;
+    text-align:center;
+    margin: 0px 0px 15px 0px;
+}
+
+.Forms{
+    font-size: 65px;
+    background-color: black;
+    color:#fff;
+    font-family: Agency FB;
+    text-align:center;
+    height: 483px;
+    padding: 1px 40px 40px 40px;
+}
+
+.Copy{
+   
+   height: 130px;
+   font-size: 50px;
+   width: 80%;
+   padding: 0px 15px; 
+   text-align:center;
+}
+
+
+.Result{
+    
+    
+    text-align:center;
+    width: 123px;
+    height: 283px;
+    position: relative;
+    right: -45%;
+    top: -25px;
+}
+
+.Button{
+    width: 100px;
+   height: 60px;
+   font-size: 25px;
+   text-align:center;
+   color: rgb(0, 0, 0);
+   font-family: Calibri;
+   background-color: rgb(231, 223, 223);
+   border-width: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
